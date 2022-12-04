@@ -1,5 +1,5 @@
 ### Hola soy Juan Paulino 👋
-## 🔭 I’m currently working on Python
+# 🔭 I’m currently working on Python
 <!--
 **juan-paulatino/juan-paulatino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
