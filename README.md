@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Juan Paulatino
 
-<img src="https://github.com/juan-paulatino/juan-paulatino/blob/main/IMG_2387.GIF" width="256"/>]
+<img src="https://github.com/juan-paulatino/juan-paulatino/blob/main/IMG_2387.GIF" width="256"/>
 
 Skills: Python / C# / Matlab / LabView
 
