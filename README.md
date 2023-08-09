@@ -2,7 +2,7 @@
 
 <img src="https://github.com/juan-paulatino/juan-paulatino/blob/main/IMG_2387.GIF" width="256"/>
 
-Skills: Python / C# / Matlab / LabView
+Skills: Python / SQL 
 
 
 
